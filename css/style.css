@@ -1,0 +1,63 @@
+.navbar-brand {
+    margin-left: 100px;
+}
+
+.navbar {
+    background-color: rgb(72, 72, 171);
+    font-size: 18px;
+}
+
+.imgbar {
+    border-radius: 50%;
+}
+
+body {
+    background-color: rgb(197, 204, 246);
+}
+
+.secoes {
+    background-color: rgb(235, 238, 255);
+    color: rgb(12, 0, 120);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.img-secoes{
+    width: 400px;
+    border-radius: 50%;
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+
+.img-parc {
+    width: 200px;
+    border-radius: 50%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.contato {
+    background-color: rgb(72, 72, 171);
+    color: rgb(255, 255, 255);
+    padding-left: 50px;
+}
+
+.img-contato {
+    padding-top: 20px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.linha {
+    padding-left: 100px;
+}
+
+.st-footer {
+    padding-left: 25px;
+    color: rgb(91, 92, 98);
+    font-family:amasis;
+}
